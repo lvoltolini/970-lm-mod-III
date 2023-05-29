@@ -21,7 +21,8 @@ packages_install_names = {
     'statsmodels' : 'statsmodels',
     'scipy' : 'scipy',
     'pypfopt': 'PyPortfolioOpt',
-    'functools' : 'functools'    
+    'functools' : 'functools',
+    'streamlit_folium' : 'streamlit_folium'    
 }
 
 
